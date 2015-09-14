@@ -8,6 +8,7 @@
 
 makeCacheMatrix <- function(x = matrix()) {
   x<-c()
+  y<-c()
 }
 
 
