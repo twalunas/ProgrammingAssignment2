@@ -4,9 +4,10 @@
 ## Write a short comment describing this function
 
 ## This is just a test to play with github.  
+## This is another test line
 
 makeCacheMatrix <- function(x = matrix()) {
-
+  x<-c()
 }
 
 
